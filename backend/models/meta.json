@@ -1,0 +1,44 @@
+{
+  "brands": [
+    "Toyota",
+    "Honda",
+    "Ford",
+    "BMW",
+    "Mercedes",
+    "Audi",
+    "Tesla",
+    "Hyundai",
+    "Chevrolet",
+    "Nissan"
+  ],
+  "fuels": [
+    "Petrol",
+    "Diesel",
+    "Electric",
+    "Hybrid"
+  ],
+  "transmissions": [
+    "Manual",
+    "Automatic"
+  ],
+  "body_types": [
+    "Sedan",
+    "SUV",
+    "Hatchback",
+    "Coupe",
+    "Pickup",
+    "Van"
+  ],
+  "year_range": [
+    2005,
+    2025
+  ],
+  "km_range": [
+    0,
+    250000
+  ],
+  "engine_range": [
+    0.8,
+    6.0
+  ]
+}
